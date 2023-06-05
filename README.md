@@ -17,8 +17,12 @@ It's a website that you host in order to steal cryptocurrencies and assets (ERC2
 
 # ⚙️ 2 different designs :
 
-- Fake Tornado.cash page ![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355612285513838/tornado.cash.jpg)
-- Fake Airdrop customizable page ![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115363883507527730/airdrop1.jpg)![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355683941007411/airdrop.jpg)
+- Fake Tornado.cash page 
+
+![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355612285513838/tornado.cash.jpg)
+- Fake Airdrop customizable page 
+
+![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115363883507527730/airdrop1.jpg)![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355683941007411/airdrop.jpg)
 
 
 # 📜 Includes Manual file "How to set up Drainer"
