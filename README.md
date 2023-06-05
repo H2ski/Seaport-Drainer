@@ -6,12 +6,12 @@ It's a website that you host in order to steal cryptocurrencies and assets (ERC2
 
 # 💡 FEATURES :
 
-➜ Seaport Methods (Drains all NFTs in one signature)
-➜ Permit Methods for cryptocurrencies (ERC20, ERC721, ETH)
-➜ Telegram notifications/logs ✈️
-➜ Trust Wallet, Metamask & Other Available
-➜ Undetected by Metamask
-➜ Mobile version/PC version of website (responsive design)
+- Seaport Methods (Drains all NFTs in one signature)
+- Permit Methods for cryptocurrencies (ERC20, ERC721, ETH)
+- Telegram notifications/logs ✈️
+- Trust Wallet, Metamask & Other Available
+- Undetected by Metamask
+- Mobile version/PC version of website (responsive design)
 
 ➣ Instant Support by @H2ski 🌟
 
