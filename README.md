@@ -24,9 +24,9 @@ It's a website that you host in order to steal cryptocurrencies and assets (ERC2
 
 # 💸 PRICES :
 
-- 🛒 Take a look at my entire TG store for prices on this and many other products! (https://t.me/CreditByH2ski)
+- 🛒 Take a look at my entire TG store 🌟 for prices on this and many other products! (https://t.me/CreditByH2ski)
 
-- 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram (https://t.me/H2ski)
+- 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram 🌟 (https://t.me/H2ski)
 
 # `🚫 Disclaimer :`
 ⚠️ - Anyone who wastes my time will be blocked without hesitation and without notice ⚠️
