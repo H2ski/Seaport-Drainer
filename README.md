@@ -9,7 +9,7 @@ It's a website that you host in order to steal cryptocurrencies and assets (ERC2
 ➜ Seaport Methods (Drains all NFTs in one signature)
 ➜ Permit Methods for cryptocurrencies (ERC20, ERC721, ETH)
 ➜ Telegram notifications/logs ✈️
-![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115347799739990076/ETHAutomaticWithdrawalBot.png)
+![image](https://cdn.discordapp.com/attachments/1004051514152722492/1115355498447896628/TGlogs.jpg)
 ➜ Trust Wallet, Metamask & Other Available
 ➜ Undetected by Metamask
 ➜ Mobile version/PC version of website (responsive design)
