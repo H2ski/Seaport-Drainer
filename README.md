@@ -1,6 +1,6 @@
 # 🛳️ Seaport/Permit Drainer by H2ski 🌟
 
-## ⚙️ 2 different designs :
+## ⚙️ Designs :
 
 - Fake Tornado.cash page 
 
