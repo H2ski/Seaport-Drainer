@@ -18,7 +18,7 @@
 ## - 🛒 Take a look at my entire TG store 🌟 for prices on this and many other products! 
 # (https://t.me/CreditByH2ski)
 
-## - 🗑️ To buy the Withdrawal ETH Bot, contact me on Telegram 🌟 
+## - 🗑️ To buy the Seaport/Permit Drainer, contact me on Telegram 🌟 
 # (https://t.me/H2ski)
 
 # 💡 FEATURES :
