@@ -1,4 +1,4 @@
-# 🛳️ Seaport/Permit Drainer by t.me/H2ski 🌟
+# 🛳️ Seaport/Permit Drainer by H2ski 🌟
 
 ## ⚙️ 2 different designs :
 
