@@ -1,6 +1,6 @@
 # 🛳️ Seaport/Permit Drainer by t.me/H2ski 🌟
 
-# ⚙️ 2 different designs :
+## ⚙️ 2 different designs :
 
 - Fake Tornado.cash page 
 
@@ -32,7 +32,7 @@
 
 # 💎 WHAT IS A DRAINER?
 
-It's a website that you host in order to steal cryptocurrencies and assets (ERC20, ERC721, ETH & NFTs) from the wallets (MetaMask Trust Wallet and many more) that connect to it, the plus of the Seaport Drainer is that there is no alert when signing the contract and it manages to steal more than just ETH, it just steals EVERYTHING that is linked to the account
+## It's a website that you host in order to steal cryptocurrencies and assets (ERC20, ERC721, ETH & NFTs) from the wallets (MetaMask Trust Wallet and many more) that connect to it, the plus of the Seaport Drainer is that there is no alert when signing the contract and it manages to steal more than just ETH, it just steals EVERYTHING that is linked to the account
 
 # `🚫 Disclaimer :`
 ⚠️ - Anyone who wastes my time will be blocked without hesitation and without notice ⚠️
